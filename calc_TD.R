@@ -3,7 +3,7 @@
 #--------------------------------------------------
 # A.C. Lute (Oct, 2019)
 # for more details regarding the methods, application, and evaluation of TDA, see 
-# Lute and Abatzoglou (2020) .......
+# Lute, A.C. and Abatzoglou, J.T. (2020), Best practices for estimating near‐surface air temperature lapse rates. Int J Climatol. Accepted Author Manuscript. doi:10.1002/joc.6668
 
 # requires: tidyr, dplyr, parallel, data.table
 
